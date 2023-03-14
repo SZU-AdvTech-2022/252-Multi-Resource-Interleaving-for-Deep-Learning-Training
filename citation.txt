@@ -1,0 +1,7 @@
+@inproceedings{REPO-253,
+    author = "Zhao, Yihao and Liu, Yuanqiang and Peng, Yanghua and Zhu, Yibo and Liu, Xuanzhe and Jin, Xin",
+    booktitle = "Proceedings of the ACM SIGCOMM 2022 Conference",
+    pages = "428--440",
+    title = "{Multi-resource Interleaving for Deep Learning Training}",
+    year = "2022"
+}
